@@ -1,8 +1,14 @@
-## Images
-![Minion](https://octodex.github.com/images/minion.png)
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
-Markdown 技法を利⽤し、動画を⼊れよう。
-## Youtube Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/STeofHExMrc"
-title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# これはマークダウンで記述したサイトです。
+## Emphasis
+**I like Sushi !! **
+![sushi](https://github.com/senbe0/sample2/assets/96939162/186e3cfc-ecda-4f17-9ad7-6c65f3c39a4f)
+
+
+## Lists
+- リスト1
+    - ネスト リスト1_
+        - ネスト リスト1_1_1
+        - ネスト リスト1_1_2
+    - ネスト リスト1_2
+- リスト2
+- リスト3
